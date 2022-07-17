@@ -4,7 +4,8 @@ function visit(post) {
           open("https://appnetbean0.github.io/post/fork.html");
             break;
         
-        default:
-            // code
+    case 2:
+         open("https://appnetbean0.github.io/post/today.html");
+            break;
     }
 }
