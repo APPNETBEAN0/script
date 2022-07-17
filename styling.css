@@ -538,7 +538,7 @@ iframe{
 }
 #post{
     margin:0;
-    padding:0;
+    padding:0px;
     color:#5F5F5F;
     font-family:Times New Roman;
     font-size:19px;
@@ -560,4 +560,12 @@ iframe{
     text-align:justify;
     box-sizing:border-box;
     padding:5px;
+}
+figcaption{
+    text-align:center;
+}
+#post p > a{
+    float:right;
+    font-family:Cursive;
+    padding:20px;
 }
