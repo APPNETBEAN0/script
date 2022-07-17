@@ -1,7 +1,7 @@
 function visit(post) {
     switch (post) {
         case 1:
-          open("/storage/emulated/0/Post/fork.html");
+          open("https://appnetbean0.github.io/post/fork.html");
             break;
         
         default:
